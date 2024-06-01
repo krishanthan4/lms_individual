@@ -1,0 +1,10 @@
+/build
+/nbproject
+/dist
+build.xml
+/dist
+manifest.mf
+/test
+.gitignore
+/src/model/connection.java
+.git
